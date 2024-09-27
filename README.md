@@ -6,7 +6,7 @@
 ## Front-End Source: [github](https://github.com/absallam1999/Twrny)
 
 ## Front-End Tools:
-  . React,js<br/>
+  . Reactjs<br/>
   . Sass<br/>
 
 ## Created By: [Absallam](https://github.com/absallam1999)
