@@ -1,11 +1,11 @@
-# Twrny
+# Tawrny
 
-## Twrny: is a platform to connect talent people with each other.
+## Tawrny: is a platform to connect talent people with each other.
 ## Peview: [Link](https://develop-me.org)
 
-## Source: [github](https://github.com/absallam1999/Twrny)
+## Front-End Source: [github](https://github.com/absallam1999/Twrny)
 
-## Template Tools:
+## Front-End Tools:
   . React,js<br/>
   . Sass<br/>
 
