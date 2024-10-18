@@ -1,6 +1,6 @@
 # Tawrny
 
-## Tawrny: is a platform to connect talent people with each other.
+## Tawrny: is a platform to connect talented individuals with each other.
 ## Peview: [Link](https://develop-me.org)
 
 ## Front-End Source: [github](https://github.com/absallam1999/Twrny)
