@@ -1,11 +1,10 @@
-# Tawrny
+# Tawrny Template
 
 ## Tawrny is a platform to connect talented individuals with each other.
 
 ## Peview: [Link](https://develop-me.org)
-## Template: [github](https://github.com/absallam1999/Twrny)
 
-## Tools:
+## Template Tools:
   . Figma<br/>
   . Sass<br/>
   . Reactjs<br/>
